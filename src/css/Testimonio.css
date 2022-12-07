@@ -1,7 +1,7 @@
 .contenedor-testimonio{
     width: 1170px;
-    height: 368px;
-    margin: 10px 10px 5px;
+    height: 300px;
+    margin: 10px 10px 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -36,4 +36,3 @@
     font-size: 1.1rem;
     text-align: justify; /*Llena el contenedor de izquierda a derecha*/
 }
-
